@@ -49,7 +49,7 @@
 // The XML configuration used if one is not provided
 #define XMLCONFIG_DEFAULT "default"
 // Maximum number of configurations that mod tile will allow
-#define XMLCONFIGS_MAX 100
+#define XMLCONFIGS_MAX 9
 // Default PID file path
 #define PIDFILE "/run/renderd/renderd.pid"
 
